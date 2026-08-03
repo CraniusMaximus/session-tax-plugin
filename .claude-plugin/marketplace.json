@@ -1,6 +1,10 @@
 {
   "name": "craniusmaximusllc",
-  "owner": { "name": "CraniusMaximus LLC", "email": "okachulasyii@gmail.com" },
+  "description": "Tools for people running Claude Code unattended - measure what your setup costs before you type, and keep an agent honest about what it did.",
+  "owner": {
+    "name": "CraniusMaximus LLC",
+    "email": "okachulasyii@gmail.com"
+  },
   "plugins": [
     {
       "name": "session-tax",
