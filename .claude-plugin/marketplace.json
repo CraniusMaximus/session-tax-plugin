@@ -1,0 +1,11 @@
+{
+  "name": "gorombey-tools",
+  "owner": { "name": "Joey Gorombey", "email": "jmgorombey1@gmail.com" },
+  "plugins": [
+    {
+      "name": "session-tax",
+      "source": "./",
+      "description": "Measure what your Claude Code setup costs on every session before you type anything."
+    }
+  ]
+}

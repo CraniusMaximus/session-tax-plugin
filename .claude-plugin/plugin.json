@@ -1,0 +1,9 @@
+{
+  "name": "session-tax",
+  "version": "1.0.0",
+  "description": "Measure what your Claude Code setup costs on every session before you type anything - opening context, what loads, and how much of it never gets used.",
+  "author": { "name": "Joey Gorombey", "email": "jmgorombey1@gmail.com" },
+  "homepage": "https://operator-shop.pages.dev",
+  "license": "MIT",
+  "keywords": ["context", "cost", "tokens", "audit", "performance"]
+}
