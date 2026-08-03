@@ -1,0 +1,11 @@
+{
+  "name": "craniusmaximusllc",
+  "owner": { "name": "CraniusMaximus LLC", "email": "okachulasyii@gmail.com" },
+  "plugins": [
+    {
+      "name": "session-tax",
+      "source": "./",
+      "description": "Measure what your Claude Code setup costs on every session before you type anything."
+    }
+  ]
+}
