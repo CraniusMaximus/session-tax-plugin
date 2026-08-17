@@ -6,6 +6,14 @@
       "name": "session-tax",
       "source": "./",
       "description": "Measure what your Claude Code setup costs on every session before you type anything."
+    },
+    {
+      "name": "build-card",
+      "source": {
+        "source": "github",
+        "repo": "CraniusMaximus/build-card"
+      },
+      "description": "Make the agent write a seven-part plan you can judge before it touches a file - including what it will not build and the case against building it at all."
     }
   ]
 }
