@@ -14,8 +14,8 @@ one has fired zero times."*
 ## Install
 
 ```
-/plugin marketplace add craniusmaximusllc/session-tax-plugin
-/plugin install session-tax@craniusmaximusllc
+/plugin marketplace add JoeyGorombey/session-tax-plugin
+/plugin install session-tax@gorombey-tools
 ```
 
 Then run `/session-tax` in any session.
