@@ -1,2 +1,19 @@
 node_modules/
 publish.mjs
+
+# --- security sweep 2026-08-26: never commit credentials ---
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.p12
+*.pfx
+*.key
+.npmrc
+.netrc
+credentials.json
+service-account*.json
+id_rsa
+id_ed25519
